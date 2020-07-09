@@ -24,7 +24,7 @@ ms.locfileid: "81645520"
 * [Programmi di installazione per Windows e macOS](https://dotnet.microsoft.com/download)
 * [Pacchetti Linux](https://docs.microsoft.com/dotnet/core/install/linux-package-managers)
 * [Contenitori Docker](https://hub.docker.com/_/microsoft-dotnet-core/)
-* [zip e palle di catrame](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+* [zip e tarball](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 * [Installare gli script](https://dotnet.microsoft.com/download/dotnet-core/scripts)
 * [Note sulla versione](https://github.com/dotnet/core/tree/master/release-notes)
 
